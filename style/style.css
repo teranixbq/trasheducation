@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+
+/* font */
+.f-js {
+  font-family: "Josefin Sans";
+  color: black;
+}
+
+.fc-medium {
+  color: #48bb67;
+}
+.text-justify {
+  text-align: justify;
+}
+
+.bg-msg {
+  background-color: #48bb67;
+}
+.bg-msg2 {
+  background-color: #1aa03e;
+}
+.bg-whited {
+  background-color: rgb(185, 185, 185);
+}
+
+.f-white {
+  color: white;
+}
+
+.borderlight {
+  --bs-border-color: #1aa03e;
+}
+
+.bordermsg {
+  --bs-border-color: #48bb67;
+}
+
+.borderdark {
+  --bs-border-color: #555555;
+}
